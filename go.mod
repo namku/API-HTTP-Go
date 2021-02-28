@@ -1,4 +1,4 @@
-module github/namku/API-HTTP-Go
+module github.com/namku/API-HTTP-Go
 
 go 1.16
 
